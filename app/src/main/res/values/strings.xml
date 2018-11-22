@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VertragingForLife</string>
+    <string name="click">KLIK VOOR VERTRAGING</string>
+    <string name="counterNull">Nog geen vertraging</string>
+    <string name="reset">Resetten</string>
+    <string-array name="stationVertrek">
+        <item>Veurne</item>
+        <item>De Panne</item>
+        <item>Diksmuide</item>
+        <item>Kortemark</item>
+        <item>Lichtervelde</item>
+        <item>Tielt</item>
+        <item>Deinze</item>
+        <item>De Pinte</item>
+        <item>Gent Sint-Pieters</item>
+        <item>Brussel-Zuid</item>
+        <item>Brussel-Centraal</item>
+        <item>Brussel-Noord</item>
+        <item>Leuven</item>
+
+
+    </string-array>
+
+
+</resources>
