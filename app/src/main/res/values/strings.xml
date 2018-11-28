@@ -3,6 +3,7 @@
     <string name="click">KLIK VOOR VERTRAGING</string>
     <string name="counterNull">Nog geen vertraging</string>
     <string name="reset">Resetten</string>
+    <string name="saveVertraging">saveVertraging</string>
     <string-array name="stationVertrek">
         <item>Veurne</item>
         <item>De Panne</item>
