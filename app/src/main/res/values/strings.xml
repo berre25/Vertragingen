@@ -4,6 +4,9 @@
     <string name="counterNull">Nog geen vertraging</string>
     <string name="reset">Resetten</string>
     <string name="saveVertraging">saveVertraging</string>
+    <string name="van">VAN:</string>
+    <string name ="naar">NAAR:</string>
+
     <string-array name="stationVertrek">
         <item>Veurne</item>
         <item>De Panne</item>
