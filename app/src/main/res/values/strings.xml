@@ -6,6 +6,7 @@
     <string name="saveVertraging">saveVertraging</string>
     <string name="van">VAN:</string>
     <string name ="naar">NAAR:</string>
+    <string name ="hint">Aantal minuten</string>
 
     <string-array name="stationVertrek">
         <item>Veurne</item>
